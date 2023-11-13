@@ -177,6 +177,7 @@
     {"id":{"name":"spr_manivelle","path":"sprites/spr_manivelle/spr_manivelle.yy",},},
     {"id":{"name":"obj_lit","path":"objects/obj_lit/obj_lit.yy",},},
     {"id":{"name":"obj_textbox01","path":"objects/obj_textbox01/obj_textbox01.yy",},},
+    {"id":{"name":"Script19","path":"scripts/Script19/Script19.yy",},},
     {"id":{"name":"obj_chaise","path":"objects/obj_chaise/obj_chaise.yy",},},
     {"id":{"name":"obj_button_options","path":"objects/obj_button_options/obj_button_options.yy",},},
     {"id":{"name":"spr_tuyau_verti_01","path":"sprites/spr_tuyau_verti_01/spr_tuyau_verti_01.yy",},},
