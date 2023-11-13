@@ -4,7 +4,6 @@
   "name": "obj_porte_puzzle",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,7 +27,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_porte_vu_haut",
+    "path": "sprites/spr_porte_vu_haut/spr_porte_vu_haut.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
