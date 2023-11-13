@@ -1,6 +1,4 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [
-    {"name":"obj_camera","order":1,"path":"objects/obj_camera/obj_camera.yy",},
-  ],
+  "ResourceOrderSettings": [],
 }
