@@ -1,4 +1,11 @@
 {
   "FolderOrderSettings": [],
+<<<<<<< Updated upstream
   "ResourceOrderSettings": [],
+=======
+  "ResourceOrderSettings": [
+    {"name":"obj_camera","order":1,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"Script19","order":1,"path":"scripts/Script19/Script19.yy",},
+  ],
+>>>>>>> Stashed changes
 }
